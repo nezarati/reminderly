@@ -5,7 +5,6 @@
 > A single‑file, privacy‑first productivity app combining smart reminders, flexible notes, and a Pomodoro timer. Natural language date parsing, browser notifications, tags, subnotes, drag‑and‑drop, bulk actions, and offline storage – all in a sleek dark UI. No dependencies, no sign‑up, just open the HTML and go.
 
 ![Reminderly Screenshot](screenshot.avif)  
-*(Replace this with an actual screenshot of your app)*
 
 ---
 
